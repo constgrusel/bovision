@@ -3,6 +3,7 @@ Bu proje, büyükbaş hayvancılık işletmeleri için özel olarak tasarlanmı�
 
 ## Özellikler
 - Hayvan takip sistemi (kimlik, yaş, kilo, sağlık durumu vb.)
+- İşletme ve Personel yönetimi
 - Aşı ve sağlık yönetimi
 - Tahıl stok yönetimi
 - Hayvanların günlük tükettiği protein,yağ, karbonhidrat değerlerlerinin yaklaşık gösterimi
